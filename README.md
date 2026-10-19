@@ -12,7 +12,7 @@ Jie Xu, Kangjin Yu, Ziyi Jin, Junjie Gao, Liqing Chen, Yixian Li, Shuai Tian, Zh
 
 <a href="https://anyverse.com/"><img src="docs/images/anyverse-dynamics-logo.png" width="280" alt="Anyverse Dynamics"></a>
 
-[Paper](https://arxiv.org/abs/2609.09630) · [Project Page](https://jiejie567.github.io/JEPA-Policy/) · [Code](https://github.com/jiejie567/JEPA-Policy)
+[Paper](https://arxiv.org/abs/2609.09630) · [Project Page](https://jiejie567.github.io/JEPA-Policy/) · [Code](https://github.com/Anyverse-Dynamics/JEPA-Policy)
 
 </div>
 
@@ -61,7 +61,7 @@ Success rates on nine simulated tasks, including Hammer Cleanup. Lines show the 
 JEPA Policy requires Python 3.12 and PyTorch. The default environment supports robomimic:
 
 ```bash
-git clone https://github.com/jiejie567/JEPA-Policy.git
+git clone https://github.com/Anyverse-Dynamics/JEPA-Policy.git
 cd JEPA-Policy
 uv sync --extra dev
 ```

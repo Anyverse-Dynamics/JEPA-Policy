@@ -12,7 +12,7 @@ Jie Xu, Kangjin Yu, Ziyi Jin, Junjie Gao, Liqing Chen, Yixian Li, Shuai Tian, Zh
 
 <a href="https://anyverse.com/"><img src="docs/images/anyverse-dynamics-logo.png" width="280" alt="无界动力 Anyverse Dynamics"></a>
 
-[论文](https://arxiv.org/abs/2609.09630) · [项目主页](https://jiejie567.github.io/JEPA-Policy/) · [代码仓库](https://github.com/jiejie567/JEPA-Policy)
+[论文](https://arxiv.org/abs/2609.09630) · [项目主页](https://jiejie567.github.io/JEPA-Policy/) · [代码仓库](https://github.com/Anyverse-Dynamics/JEPA-Policy)
 
 </div>
 
@@ -61,7 +61,7 @@ https://github.com/user-attachments/assets/71be708b-ebd8-4e8f-9317-58a0c748d889
 JEPA Policy 需要 Python 3.12 和 PyTorch。默认环境支持 robomimic：
 
 ```bash
-git clone https://github.com/jiejie567/JEPA-Policy.git
+git clone https://github.com/Anyverse-Dynamics/JEPA-Policy.git
 cd JEPA-Policy
 uv sync --extra dev
 ```

@@ -55,7 +55,7 @@ the reported apparatus; they are not generic robot defaults.
 Clone the repository and enter the deployment directory:
 
 ```bash
-git clone https://github.com/jiejie567/JEPA-Policy.git
+git clone https://github.com/Anyverse-Dynamics/JEPA-Policy.git
 cd JEPA-Policy/real_robot
 ```
 
